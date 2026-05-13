@@ -46,13 +46,3 @@ LinkedIn: Your LinkedIn Profile
 
 Digital Handle: zelarq  
 
-Implementation Instructions:
-Navigate to your repository: data-analytics-portfolio-.
-
-Select the README.md file.
-
-Click the Edit (pencil) icon.
-
-Paste the content above and replace any placeholders with your specific links.
-
-Click Commit changes.
